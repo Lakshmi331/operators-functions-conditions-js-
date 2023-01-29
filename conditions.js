@@ -74,3 +74,10 @@ var x = 10;
 var y = "sri"; 
 
 x == y ? console.log("1st place") : true ? console.log("2nd place") : console.log("3rd place");
+
+
+//Note
+[] //empty array ...its value will be false, i.e., [] = false;
+{} //empty object ...its value will be false, i.e., {} = false;
+"" //empty string ...its value will be false, i.e., "" = false;
+null // its value will be false, i.e., null = false;
